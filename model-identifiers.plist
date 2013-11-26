@@ -147,5 +147,90 @@
 		<key>Variant</key>
 		<string>Cellular</string>
 	</dict>
+	<key>iPhone1,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 2G</string>
+	</dict>
+	<key>iPhone1,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 3G</string>
+	</dict>
+	<key>iPhone2,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 3GS</string>
+	</dict>
+	<key>iPhone3,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 4</string>
+		<key>Variant</key>
+		<string>GSM</string>
+	</dict>
+	<key>iPhone3,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 4</string>
+		<key>Variant</key>
+		<string>GSM Rev A</string>
+	</dict>
+	<key>iPhone3,3</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 4</string>
+		<key>Variant</key>
+		<string>CDMA</string>
+	</dict>
+	<key>iPhone4,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 4S</string>
+		<key>Variant</key>
+		<string>GSM+CDMA</string>
+	</dict>
+	<key>iPhone5,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 5</string>
+		<key>Variant</key>
+		<string>GSM</string>
+	</dict>
+	<key>iPhone5,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 5</string>
+		<key>Variant</key>
+		<string>GSM+CDMA</string>
+	</dict>
+	<key>iPhone5,3</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 5c</string>
+		<key>Variant</key>
+		<string>GSM</string>
+	</dict>
+	<key>iPhone5,4</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 5c</string>
+		<key>Variant</key>
+		<string>Global</string>
+	</dict>
+	<key>iPhone6,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 5s</string>
+		<key>Variant</key>
+		<string>GSM</string>
+	</dict>
+	<key>iPhone6,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPhone 5s</string>
+		<key>Variant</key>
+		<string>Global</string>
+	</dict>
 </dict>
 </plist>
