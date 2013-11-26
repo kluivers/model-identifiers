@@ -54,7 +54,7 @@
 		<key>Generation</key>
 		<string>iPad 2</string>
 		<key>Variant</key>
-		<string>WiFi Rev A</string>
+		<string>WiFi Mid 2012</string>
 	</dict>
 	<key>iPad3,1</key>
 	<dict>
@@ -231,6 +231,31 @@
 		<string>iPhone 5s</string>
 		<key>Variant</key>
 		<string>Global</string>
+	</dict>
+	<key>iPod1,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPod touch 1G</string>
+	</dict>
+	<key>iPod2,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPod touch 2G</string>
+	</dict>
+	<key>iPod3,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPod touch 3G</string>
+	</dict>
+	<key>iPod4,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPod touch 4G</string>
+	</dict>
+	<key>iPod5,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPod touch 5G</string>
 	</dict>
 </dict>
 </plist>
