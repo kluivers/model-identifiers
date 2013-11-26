@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppleTV2,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>Apple TV 2G</string>
+		<key>Variant</key>
+		<string>Original</string>
+	</dict>
+	<key>AppleTV3,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>Apple TV 3G</string>
+		<key>Variant</key>
+		<string>Original</string>
+	</dict>
+	<key>AppleTV3,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>Apple TV 3G</string>
+		<key>Variant</key>
+		<string>Rev A</string>
+	</dict>
+	<key>iPad1,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 1G</string>
+	</dict>
+	<key>iPad2,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 2</string>
+		<key>Variant</key>
+		<string>WiFi</string>
+	</dict>
+	<key>iPad2,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 2</string>
+		<key>Variant</key>
+		<string>GSM</string>
+	</dict>
+	<key>iPad2,3</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 2</string>
+		<key>Variant</key>
+		<string>CDMA</string>
+	</dict>
+	<key>iPad2,4</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 2</string>
+		<key>Variant</key>
+		<string>WiFi Rev A</string>
+	</dict>
+	<key>iPad3,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 3</string>
+		<key>Variant</key>
+		<string>WiFi</string>
+	</dict>
+	<key>iPad3,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 3</string>
+		<key>Variant</key>
+		<string>CDMA</string>
+	</dict>
+	<key>iPad3,3</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 3</string>
+		<key>Variant</key>
+		<string>GSM</string>
+	</dict>
+	<key>iPad3,4</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 4</string>
+		<key>Variant</key>
+		<string>WiFi</string>
+	</dict>
+	<key>iPad3,5</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 4</string>
+		<key>Variant</key>
+		<string>GSM</string>
+	</dict>
+	<key>iPad3,6</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad 4</string>
+		<key>Variant</key>
+		<string>Cellular</string>
+	</dict>
+	<key>iPad4,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad Air</string>
+		<key>Variant</key>
+		<string>WiFi</string>
+	</dict>
+	<key>iPad4,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad Air</string>
+		<key>Variant</key>
+		<string>Cellular</string>
+	</dict>
+	<key>iPad2,5</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad mini</string>
+		<key>Variant</key>
+		<string>WiFi</string>
+	</dict>
+	<key>iPad2,6</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad mini</string>
+		<key>Variant</key>
+		<string>GSM</string>
+	</dict>
+	<key>iPad2,7</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad mini</string>
+		<key>Variant</key>
+		<string>Cellular</string>
+	</dict>
+	<key>iPad4,4</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad mini Retina</string>
+		<key>Variant</key>
+		<string>WiFi</string>
+	</dict>
+	<key>iPad4,5</key>
+	<dict>
+		<key>Generation</key>
+		<string>iPad mini Retina</string>
+		<key>Variant</key>
+		<string>Cellular</string>
+	</dict>
+</dict>
+</plist>
