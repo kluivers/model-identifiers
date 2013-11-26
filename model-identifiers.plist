@@ -321,5 +321,122 @@
 		<key>Variant</key>
 		<string>13-inch, Mid 2010</string>
 	</dict>
+	<key>MacBookPro1,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+	</dict>
+	<key>MacBookPro1,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>17-inch</string>
+	</dict>
+	<key>MacBookPro2,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>17-inch, Core 2 Duo</string>
+	</dict>
+	<key>MacBookPro2,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>15-inch, Core 2 Duo</string>
+	</dict>
+	<key>MacBookPro3,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>Late 2007</string>
+	</dict>
+	<key>MacBookPro4,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>Early 2008</string>
+	</dict>
+	<key>MacBookPro5,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>Late 2008</string>
+	</dict>
+	<key>MacBookPro5,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>17-inch, Early 2009</string>
+	</dict>
+	<key>MacBookPro5,3</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>15-inch, Mid 2009</string>
+	</dict>
+	<key>MacBookPro6,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>17-inch, Mid 2010</string>
+	</dict>
+	<key>MacBookPro6,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>15-inch, Mid 2010</string>
+	</dict>
+	<key>MacBookPro8,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>15-inch, Early 2011</string>
+	</dict>
+	<key>MacBookPro8,3</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>17-inch, Early 2011</string>
+	</dict>
+	<key>MacBookPro9,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>15-inch, Mid 2012</string>
+	</dict>
+	<key>MacBookPro10,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>15-inch, Retina, Mid 2012</string>
+	</dict>
+	<key>MacBookPro11,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>15-inch, Retina, Late 2013</string>
+	</dict>
+	<key>MacBookPro11,3</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook Pro</string>
+		<key>Variant</key>
+		<string>15-inch, Retina, Late 2013</string>
+	</dict>
 </dict>
 </plist>
