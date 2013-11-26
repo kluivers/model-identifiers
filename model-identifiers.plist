@@ -267,5 +267,59 @@
 		<key>Generation</key>
 		<string>Simulator</string>
 	</dict>
+	<key>MacBook1,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook</string>
+	</dict>
+	<key>MacBook2,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook</string>
+		<key>Variant</key>
+		<string>Late 2006</string>
+	</dict>
+	<key>MacBook3,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook</string>
+		<key>Variant</key>
+		<string>13-inch, Late 2007</string>
+	</dict>
+	<key>MacBook4,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook</string>
+		<key>Variant</key>
+		<string>13-inch, Early 2008</string>
+	</dict>
+	<key>MacBook5,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook</string>
+		<key>Variant</key>
+		<string>13-inch, Aluminium, Late 2008</string>
+	</dict>
+	<key>MacBook5,2</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook</string>
+		<key>Variant</key>
+		<string>13-inch, Early 2009</string>
+	</dict>
+	<key>MacBook6,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook</string>
+		<key>Variant</key>
+		<string>13-inch, Late 2009</string>
+	</dict>
+	<key>MacBook7,1</key>
+	<dict>
+		<key>Generation</key>
+		<string>MacBook</string>
+		<key>Variant</key>
+		<string>13-inch, Mid 2010</string>
+	</dict>
 </dict>
 </plist>
