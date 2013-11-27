@@ -745,5 +745,40 @@
 		<key>Generation</key>
 		<string>Early 2009</string>
 	</dict>
+	<key>MacPro1,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac Pro</string>
+		<key>Variant</key>
+		<string>Original</string>
+	</dict>
+	<key>MacPro2,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac Pro</string>
+		<key>Variant</key>
+		<string>8-core</string>
+	</dict>
+	<key>MacPro3,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac Pro</string>
+		<key>Variant</key>
+		<string>Early 2008</string>
+	</dict>
+	<key>MacPro4,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac Pro</string>
+		<key>Variant</key>
+		<string>Early 2009</string>
+	</dict>
+	<key>MacPro5,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac Pro</string>
+		<key>Variant</key>
+		<string>Mid 2010</string>
+	</dict>
 </dict>
 </plist>
