@@ -814,5 +814,60 @@
 		<key>Variant</key>
 		<string>Mid 2010</string>
 	</dict>
+	<key>Macmini1,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac mini</string>
+		<key>Generation</key>
+		<string>Early 2006</string>
+	</dict>
+	<key>Macmini3,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac mini</string>
+		<key>Generation</key>
+		<string>Early 2009</string>
+	</dict>
+	<key>Macmini4,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac mini</string>
+		<key>Generation</key>
+		<string>Mid 2010</string>
+	</dict>
+	<key>Macmini5,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac mini</string>
+		<key>Generation</key>
+		<string>Mid 2011</string>
+		<key>Variant</key>
+		<string>Intel graphics</string>
+	</dict>
+	<key>Macmini5,2</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac mini</string>
+		<key>Generation</key>
+		<string>Mid 2011</string>
+		<key>Variant</key>
+		<string>Radeon graphics</string>
+	</dict>
+	<key>Macmini5,3</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac mini</string>
+		<key>Generation</key>
+		<string>Mid 2011</string>
+		<key>Variant</key>
+		<string>Server</string>
+	</dict>
+	<key>Macmini6,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac mini</string>
+		<key>Generation</key>
+		<string>Late 2012</string>
+	</dict>
 </dict>
 </plist>
