@@ -724,5 +724,26 @@
 		<key>Variant</key>
 		<string>13-inch</string>
 	</dict>
+	<key>Xserve1,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Xserve</string>
+		<key>Generation</key>
+		<string>Late 2006</string>
+	</dict>
+	<key>Xserve2,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Xserve</string>
+		<key>Generation</key>
+		<string>Early 2008</string>
+	</dict>
+	<key>Xserve3,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Xserve</string>
+		<key>Generation</key>
+		<string>Early 2009</string>
+	</dict>
 </dict>
 </plist>
