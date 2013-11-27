@@ -31,127 +31,129 @@
 	</dict>
 	<key>iPad1,1</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 1G</string>
 	</dict>
 	<key>iPad2,1</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 2</string>
 		<key>Variant</key>
 		<string>WiFi</string>
 	</dict>
 	<key>iPad2,2</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 2</string>
 		<key>Variant</key>
 		<string>GSM</string>
 	</dict>
 	<key>iPad2,3</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 2</string>
 		<key>Variant</key>
 		<string>CDMA</string>
 	</dict>
 	<key>iPad2,4</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 2</string>
+		<key>Generation</key>
+		<string>Mid 2012</string>
 		<key>Variant</key>
-		<string>WiFi Mid 2012</string>
+		<string>WiFi</string>
 	</dict>
 	<key>iPad3,1</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 3</string>
 		<key>Variant</key>
 		<string>WiFi</string>
 	</dict>
 	<key>iPad3,2</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 3</string>
 		<key>Variant</key>
 		<string>CDMA</string>
 	</dict>
 	<key>iPad3,3</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 3</string>
 		<key>Variant</key>
 		<string>GSM</string>
 	</dict>
 	<key>iPad3,4</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 4</string>
 		<key>Variant</key>
 		<string>WiFi</string>
 	</dict>
 	<key>iPad3,5</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 4</string>
 		<key>Variant</key>
 		<string>GSM</string>
 	</dict>
 	<key>iPad3,6</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad 4</string>
 		<key>Variant</key>
 		<string>Cellular</string>
 	</dict>
 	<key>iPad4,1</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad Air</string>
 		<key>Variant</key>
 		<string>WiFi</string>
 	</dict>
 	<key>iPad4,2</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad Air</string>
 		<key>Variant</key>
 		<string>Cellular</string>
 	</dict>
 	<key>iPad2,5</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad mini</string>
 		<key>Variant</key>
 		<string>WiFi</string>
 	</dict>
 	<key>iPad2,6</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad mini</string>
 		<key>Variant</key>
 		<string>GSM</string>
 	</dict>
 	<key>iPad2,7</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>iPad mini</string>
 		<key>Variant</key>
 		<string>Cellular</string>
 	</dict>
 	<key>iPad4,4</key>
 	<dict>
-		<key>Generation</key>
-		<string>iPad mini Retina</string>
+		<key>Device</key>
+		<string>iPad mini</string>
 		<key>Variant</key>
-		<string>WiFi</string>
+		<string>Retina, WiFi</string>
 	</dict>
 	<key>iPad4,5</key>
 	<dict>
 		<key>Generation</key>
-		<string>iPad mini Retina</string>
+		<string>iPad mini</string>
 		<key>Variant</key>
-		<string>Cellular</string>
+		<string>Retina, Cellular</string>
 	</dict>
 	<key>iPhone1,1</key>
 	<dict>
@@ -240,37 +242,47 @@
 	</dict>
 	<key>iPod1,1</key>
 	<dict>
+		<key>Device</key>
+		<string>iPod touch</string>
 		<key>Generation</key>
-		<string>iPod touch 1G</string>
+		<string>1G</string>
 	</dict>
 	<key>iPod2,1</key>
 	<dict>
+		<key>Device</key>
+		<string>iPod touch</string>
 		<key>Generation</key>
-		<string>iPod touch 2G</string>
+		<string>2G</string>
 	</dict>
 	<key>iPod3,1</key>
 	<dict>
+		<key>Device</key>
+		<string>iPod touch</string>
 		<key>Generation</key>
-		<string>iPod touch 3G</string>
+		<string>3G</string>
 	</dict>
 	<key>iPod4,1</key>
 	<dict>
+		<key>Device</key>
+		<string>iPod touch</string>
 		<key>Generation</key>
-		<string>iPod touch 4G</string>
+		<string>4G</string>
 	</dict>
 	<key>iPod5,1</key>
 	<dict>
+		<key>Device</key>
+		<string>iPod touch</string>
 		<key>Generation</key>
-		<string>iPod touch 5G</string>
+		<string>5G</string>
 	</dict>
 	<key>i386</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>Simulator</string>
 	</dict>
 	<key>x86_64</key>
 	<dict>
-		<key>Generation</key>
+		<key>Device</key>
 		<string>Simulator</string>
 	</dict>
 	<key>MacBook1,1</key>
