@@ -4,22 +4,28 @@
 <dict>
 	<key>AppleTV2,1</key>
 	<dict>
+		<key>Device</key>
+		<string>AppleTV</string>
 		<key>Generation</key>
-		<string>Apple TV 2G</string>
+		<string>2G</string>
 		<key>Variant</key>
 		<string>Original</string>
 	</dict>
 	<key>AppleTV3,1</key>
 	<dict>
+		<key>Device</key>
+		<string>AppleTV</string>
 		<key>Generation</key>
-		<string>Apple TV 3G</string>
+		<string>3G</string>
 		<key>Variant</key>
 		<string>Original</string>
 	</dict>
 	<key>AppleTV3,2</key>
 	<dict>
+		<key>Device</key>
+		<string>AppleTV</string>
 		<key>Generation</key>
-		<string>Apple TV 3G</string>
+		<string>3G</string>
 		<key>Variant</key>
 		<string>Rev A</string>
 	</dict>
@@ -479,6 +485,156 @@
 		<string>MacBook Pro</string>
 		<key>Variant</key>
 		<string>15-inch, Retina, Late 2013</string>
+	</dict>
+	<key>iMac4,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Early 2006</string>
+	</dict>
+	<key>iMac4,2</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Mid 2006</string>
+		<key>Variant</key>
+		<string>17-inch</string>
+	</dict>
+	<key>iMac5,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Late 2006</string>
+	</dict>
+	<key>iMac5,2</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Late 2006</string>
+		<key>Variant</key>
+		<string>17-inch, Core Duo</string>
+	</dict>
+	<key>iMac7,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Mid 2007</string>
+	</dict>
+	<key>iMac8,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Early 2008</string>
+	</dict>
+	<key>iMac9,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Early 2009</string>
+	</dict>
+	<key>iMac10,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Late 2009</string>
+	</dict>
+	<key>iMac11,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Late 2009</string>
+		<key>Variant</key>
+		<string>27-inch</string>
+	</dict>
+	<key>iMac11,2</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Mid 2010</string>
+		<key>Variant</key>
+		<string>21.5-inch</string>
+	</dict>
+	<key>iMac11,3</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Mid 2010</string>
+		<key>Variant</key>
+		<string>27-inch</string>
+	</dict>
+	<key>iMac12,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Mid 2011</string>
+		<key>Variant</key>
+		<string>21.5-inch</string>
+	</dict>
+	<key>iMac12,2</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Mid 2011</string>
+		<key>Variant</key>
+		<string>27-inch</string>
+	</dict>
+	<key>iMac13,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Late 2012</string>
+		<key>Variant</key>
+		<string>21.5-inch</string>
+	</dict>
+	<key>iMac13,2</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Late 2012</string>
+		<key>Variant</key>
+		<string>27-inch</string>
+	</dict>
+	<key>iMac14,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Late 2013</string>
+		<key>Variant</key>
+		<string>21.5-inch</string>
+	</dict>
+	<key>iMac14,2</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Late 2013</string>
+		<key>Variant</key>
+		<string>27-inch</string>
+	</dict>
+	<key>iMac14,3</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Late 2013</string>
+		<key>Variant</key>
+		<string>21.5-inch</string>
 	</dict>
 </dict>
 </plist>
