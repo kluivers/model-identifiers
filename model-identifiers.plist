@@ -636,5 +636,93 @@
 		<key>Variant</key>
 		<string>21.5-inch</string>
 	</dict>
+	<key>MacBookAir1,1</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Generation</key>
+		<string>Early 2008</string>
+		<key>Variant</key>
+		<string>13-inch</string>
+	</dict>
+	<key>MacBookAir2,1</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Variant</key>
+		<string>13-inch</string>
+	</dict>
+	<key>MacBookAir3,1</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Generation</key>
+		<string>Late 2010</string>
+		<key>Variant</key>
+		<string>11-inch</string>
+	</dict>
+	<key>MacBookAir3,2</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Generation</key>
+		<string>Late 2010</string>
+		<key>Variant</key>
+		<string>13-inch</string>
+	</dict>
+	<key>MacBookAir4,1</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Generation</key>
+		<string>Mid 2011</string>
+		<key>Variant</key>
+		<string>11-inch</string>
+	</dict>
+	<key>MacBookAir4,2</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Generation</key>
+		<string>Mid 2011</string>
+		<key>Variant</key>
+		<string>13-inch</string>
+	</dict>
+	<key>MacBookAir5,1</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Generation</key>
+		<string>Mid 2012</string>
+		<key>Variant</key>
+		<string>11-inch</string>
+	</dict>
+	<key>MacBookAir5,2</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Generation</key>
+		<string>Mid 2012</string>
+		<key>Variant</key>
+		<string>13-inch</string>
+	</dict>
+	<key>MacBookAir6,1</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Generation</key>
+		<string>Mid 2013</string>
+		<key>Variant</key>
+		<string>11-inch</string>
+	</dict>
+	<key>MacBookAir6,2</key>
+	<dict>
+		<key>Device</key>
+		<string>MacBook Air</string>
+		<key>Generation</key>
+		<string>Mid 2013</string>
+		<key>Variant</key>
+		<string>13-inch</string>
+	</dict>
 </dict>
 </plist>
