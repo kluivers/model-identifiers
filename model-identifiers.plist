@@ -821,6 +821,13 @@
 		<key>Generation</key>
 		<string>Early 2006</string>
 	</dict>
+	<key>Macmini2,1</key>
+	<dict>
+		<key>Device</key>
+		<string>Mac mini</string>
+		<key>Generation</key>
+		<string>Late 2007</string>
+	</dict>
 	<key>Macmini3,1</key>
 	<dict>
 		<key>Device</key>
