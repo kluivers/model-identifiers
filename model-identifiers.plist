@@ -240,6 +240,16 @@
 		<key>Variant</key>
 		<string>Global</string>
 	</dict>
+	<key>iPhone7,1</key>
+	<dict>
+		<key>Device</key>
+		<string>iPhone 6 Plus</string>
+	</dict>
+	<key>iPhone7,2</key>
+	<dict>
+		<key>Device</key>
+		<string>iPhone 6</string>
+	</dict>
 	<key>iPod1,1</key>
 	<dict>
 		<key>Device</key>
