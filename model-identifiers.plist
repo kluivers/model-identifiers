@@ -682,6 +682,15 @@
 		<key>Variant</key>
 		<string>21.5-inch</string>
 	</dict>
+	<key>iMac14,4</key>
+	<dict>
+		<key>Device</key>
+		<string>iMac</string>
+		<key>Generation</key>
+		<string>Mid 2014</string>
+		<key>Variant</key>
+		<string>21.5-inch</string>
+	</dict>
 	<key>MacBookAir1,1</key>
 	<dict>
 		<key>Device</key>
