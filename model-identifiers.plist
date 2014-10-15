@@ -765,17 +765,23 @@
 	<dict>
 		<key>Device</key>
 		<string>MacBook Air</string>
-		<key>Generation</key>
-		<string>Mid 2013</string>
 		<key>Variant</key>
 		<string>11-inch</string>
+		<key>Generations</key>
+		<array>
+			<string>Mid 2013</string>
+			<string>Early 2014</string>
+		</array>
 	</dict>
 	<key>MacBookAir6,2</key>
 	<dict>
 		<key>Device</key>
 		<string>MacBook Air</string>
-		<key>Generation</key>
-		<string>Mid 2013</string>
+		<key>Generations</key>
+		<array>
+			<string>Mid 2013</string>
+			<string>Early 2014</string>
+		</array>
 		<key>Variant</key>
 		<string>13-inch</string>
 	</dict>
